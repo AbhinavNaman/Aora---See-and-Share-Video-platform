@@ -1,0 +1,3 @@
+(auth), we are namking the folder with "()" bec just like next.js this will create 
+a seperate screen group allopwing you to add additional pages and screen within it with a special layout, 
+that is differentfrom other layouts
